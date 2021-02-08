@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [README](README.md)
+* [1. Basic Web Development](1.-basic-web-development.md)
 
