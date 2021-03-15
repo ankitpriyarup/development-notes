@@ -6,4 +6,5 @@
 * [3. Node.js](3.-node.js.md)
 * [4. Angular](7.-angular.md)
 * [5. Advanced CSS & Sass](5.-advanced-css-and-sass.md)
+* [6. Blockchain: Ethereum & Solidity](6.-blockchain-ethereum-and-solidity.md)
 
