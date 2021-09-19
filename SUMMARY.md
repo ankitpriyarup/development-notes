@@ -8,4 +8,5 @@
 * [5. Blockchain: Ethereum & Solidity](6.-blockchain-ethereum-and-solidity.md)
 * [6. Advanced CSS & Sass](7.-advanced-css-and-sass.md)
 * [7. Flutter](6.-flutter.md)
+* [8. RxJS](8.-rxjs.md)
 
